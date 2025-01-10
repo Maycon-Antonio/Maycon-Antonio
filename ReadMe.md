@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente estou a procura de estágio<br>👯 Estou a procura de deixar público alguns projetos<br>🌱 Atualmente estou aprendendo Desenvolvimento Web e back-end
+🔭 Atualmente estou a procura de estágio<br>👯 Pretendo deixar público alguns projetos<br>🌱 Atualmente estou aprendendo Desenvolvimento Web e back-end
 
 
 ## 🌐 Socials:
