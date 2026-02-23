@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 Atualmente estou a procura de estágio<br>👯 Pretendo deixar público alguns projetos<br>🌱 Atualmente estou aprendendo Desenvolvimento Web e back-end
+🎓 Técnico em Informática formado pelo IFBA<br>💻 Graduando em Ciência da Computação pela UESB<br>🚀 Foco em Desenvolvimento de Software e fundamentos de computação<br>🧠 Interesse em Algoritmos, Estruturas de Dados e Back-end  
 
+Busco evoluir constantemente através de projetos práticos, explorando boas práticas de desenvolvimento, organização de código e resolução eficiente de problemas.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mayconantonioas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-antonio-aguiar-santos) 
